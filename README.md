@@ -9,4 +9,4 @@ It also supports device rotation and error handling.
 - For RecyclerView, `DiffUtil` is used to optimize performance
 - Error is displayed as a `Toast`
 
-![Screenshot](https://gist.github.com/assets/42583872/51dfe82f-a0e9-4008-b05b-698009e624c1)
+Screenshot link: https://gist.github.com/assets/42583872/51dfe82f-a0e9-4008-b05b-698009e624c1
