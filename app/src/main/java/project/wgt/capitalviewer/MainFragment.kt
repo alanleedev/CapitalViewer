@@ -23,10 +23,4 @@ class MainFragment : Fragment() {
         viewModel = ViewModelProvider(this)[MainViewModel::class.java]
         // TODO: Use the ViewModel
     }
-
-    companion object {
-        const val TAG = "MainFragment"
-        fun newInstance() = MainFragment()
-    }
-
 }
