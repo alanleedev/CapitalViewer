@@ -25,6 +25,7 @@ class MainFragment : Fragment() {
     }
 
     companion object {
+        const val TAG = "MainFragment"
         fun newInstance() = MainFragment()
     }
 
